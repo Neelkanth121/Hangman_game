@@ -1,0 +1,1 @@
+This is a simple hangman game devloped by using python, Where the player tries to guess a hidden word one letter at a time. The game randomly selects a word from a predefined list. The player has limited chances to guess the word.
